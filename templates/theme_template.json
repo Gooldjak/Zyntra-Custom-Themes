@@ -1,0 +1,22 @@
+{
+  "body": "<custom wallpaper link>",
+  "mainPanel": "<color>",
+  "main": "<color>",
+  "dark": "<color>",
+  "dark2": "<color>",
+  "dark3": "<color>",
+  "dark4": "<color>",
+  "light": "<color>",
+  "light2": "<color>",
+  "light3": "<color>",
+  "light4": "<color>",
+  "textgray": "<color>",
+  "textlightgray": "<color>",
+  "text": "<color>",
+  "accent": "<color>",
+  "accentDark": "<color>",
+  "red": "<color>",
+  "redDark": "<color>",
+  "notification": "<color>",
+  "filter": "blur(<value>) grayscale(<value>)"
+}
