@@ -7,6 +7,6 @@ Custom Themes for https://zyntra.xyz
 <br>
 > [!WARNING]
 > **Zyntra is not public yet!**<br>
-> Styles will be added to this repository only after Zyntra is released!
+> Themes will be added to this repository only after Zyntra is released!
 
 # Themes
