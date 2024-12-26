@@ -10,3 +10,4 @@ Custom Themes for https://zyntra.xyz
 > Themes will be added to this repository only after Zyntra is released!
 
 # Themes
+<a href="https://github.com/Gooldjak/Zyntra-Custom-Themes/tree/main/templates">Template</a>
