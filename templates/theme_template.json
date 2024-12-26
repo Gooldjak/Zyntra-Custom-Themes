@@ -18,5 +18,5 @@
   "red": "<color>",
   "redDark": "<color>",
   "notification": "<color>",
-  "filter": "blur(<value>) grayscale(<value>)"
+  "filter": "<filter>"
 }
